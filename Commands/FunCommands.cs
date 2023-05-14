@@ -12,8 +12,6 @@ using DSharpPlus.Interactivity.Extensions;
 using Ker_NelBot.Handlers.Dialogue;
 using Ker_NelBot.Handlers.Dialogue.Steps;
 using Newtonsoft.Json;
-using MathNet.Numerics;
-using Newtonsoft.Json.Linq;
 
 namespace Ker_NelBot.Commands
 {
