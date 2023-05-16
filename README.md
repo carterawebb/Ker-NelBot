@@ -11,6 +11,6 @@ Ker-NelBot is a Discord bot written in C# using the DSharpPlus library. It is de
 7) Build the solution, or run it on a server.
 
 ## Packages
- - DSharpPlus.4.2.0-nightly-01091
- - DSharpPlus.CommandsNext.4.2.0-nightly-01091
- - DSharpPlus.Interactivity.4.2.0-nightly-01091
+ - [DSharpPlus.4.2.0-nightly-01091](https://www.nuget.org/packages/DSharpPlus/4.2.0-nightly-01094)
+ - [DSharpPlus.CommandsNext.4.2.0-nightly-01091](https://www.nuget.org/packages/DSharpPlus.CommandsNext/4.2.0-nightly-01094)
+ - [DSharpPlus.Interactivity.4.2.0-nightly-01091](https://www.nuget.org/packages/DSharpPlus.Interactivity/4.2.0-nightly-01094)
