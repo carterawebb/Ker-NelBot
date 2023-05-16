@@ -7,7 +7,7 @@ Ker-NelBot is a Discord bot written in C# using the DSharpPlus library. It is de
 3) Download the required [packages](https://github.com/carterawebb/Ker-NelBot#Packages).
 4) Create a new Discord application and bot account [here](https://discord.com/developers/applications).
 5) Copy the bot token.
-6) Create a file named exactly "config.json" file at `\bin\Debug` that has your Discord Bot token and your desired prefix [following the format shown here](https://v12.discordjs.guide/creating-your-bot/configuration-files.html#implementing-your-config-file).
+6) Create a file named exactly "config.json" file at `\bin\Debug` that has your Discord Bot token and your desired prefix following the format shown [here](https://v12.discordjs.guide/creating-your-bot/configuration-files.html#implementing-your-config-file).
 7) Build the solution, or run it on a server.
 
 ## Packages
